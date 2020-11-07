@@ -1,2 +1,2 @@
-# cp_estore
+# theone_estore
 An e-commerce store with new tech stack
